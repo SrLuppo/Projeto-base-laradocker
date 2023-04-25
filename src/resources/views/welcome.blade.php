@@ -26,7 +26,7 @@
                         <a href="/" class="nav-link">Entrar</a>
                     </li>
                     <li class="nav-item">
-                        <a href="/" class="nav-link">Cadastrar</a>
+                        <a href="/" class="nav-link">Cadastrar111122</a>
                     </li>
                 </ul>
             </div>
