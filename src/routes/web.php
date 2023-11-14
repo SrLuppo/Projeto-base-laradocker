@@ -20,3 +20,7 @@ Route::get('/welcome', function () {
 Route::get('/', function () {
     return view('linux');
 });
+
+Route::get('/index', function () {
+    return view('index');
+});
